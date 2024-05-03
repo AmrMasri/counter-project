@@ -1,9 +1,9 @@
-import Counter from "./counter";
+import Counter from './Counter'
 
 function App(){
-  <>
-  <Counter/>
-  </>
+    return (
+      <Counter/>
+    );
 }
  
 export default App;
